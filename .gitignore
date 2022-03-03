@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
@@ -70,3 +70,614 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+X Project/Assets/Models/Units/Phoenix/Phoenix.obj.meta
+X Project/Assets/Models/Units/Phoenix/Phoenix.obj
+X Project/Assets/Models/Units/Phoenix/Phoenix.mtl.meta
+X Project/Assets/Models/Units/Phoenix/Phoenix.mtl
+X Project/Assets/Models/Units/Phoenix/Maps/Vertsuit_low_BaseColor.jpg.meta
+X Project/Assets/Models/Units/Phoenix/Maps/Vertsuit_low_BaseColor.jpg
+X Project/Assets/Models/Units/Phoenix/Maps/Vertshoe_low_BaseColor.jpg.meta
+X Project/Assets/Models/Units/Phoenix/Maps/Vertshoe_low_BaseColor.jpg
+X Project/Assets/Models/Units/Phoenix/Maps/Tara2TorsoMapD_1002.jpg.meta
+X Project/Assets/Models/Units/Phoenix/Maps/Tara2TorsoMapD_1002.jpg
+X Project/Assets/Models/Units/Phoenix/Maps/Tara2MouthMapD_1005.jpg.meta
+X Project/Assets/Models/Units/Phoenix/Maps/Tara2MouthMapD_1005.jpg
+X Project/Assets/Models/Units/Phoenix/Maps/Tara2LegsMapD_1003.jpg.meta
+X Project/Assets/Models/Units/Phoenix/Maps/Tara2LegsMapD_1003.jpg
+X Project/Assets/Models/Units/Phoenix/Maps/Tara2FaceMapD_1001.jpg.meta
+X Project/Assets/Models/Units/Phoenix/Maps/Tara2FaceMapD_1001.jpg
+X Project/Assets/Models/Units/Phoenix/Maps/Tara2FaceMapD02_1001.jpg.meta
+X Project/Assets/Models/Units/Phoenix/Maps/Tara2FaceMapD02_1001.jpg
+X Project/Assets/Models/Units/Phoenix/Maps/Tara2EyeMapD01_1007.jpg.meta
+X Project/Assets/Models/Units/Phoenix/Maps/Tara2EyeMapD01_1007.jpg
+X Project/Assets/Models/Units/Phoenix/Maps/Tara2EyeMapD00G3F_1007.jpg.meta
+X Project/Assets/Models/Units/Phoenix/Maps/Tara2EyeMapD00G3F_1007.jpg
+X Project/Assets/Models/Units/Phoenix/Maps/Tara2ArmsMapD_1004.jpg.meta
+X Project/Assets/Models/Units/Phoenix/Maps/Tara2ArmsMapD_1004.jpg
+X Project/Assets/Models/Units/Phoenix/Maps/Mask_low_BaseColor.jpg.meta
+X Project/Assets/Models/Units/Phoenix/Maps/Mask_low_BaseColor.jpg
+X Project/Assets/Models/Units/Phoenix/Maps/Hot.jpg.meta
+X Project/Assets/Models/Units/Phoenix/Maps/Hot.jpg
+X Project/Assets/Models/Units/Phoenix/Maps/Hood_low_BaseColor.jpg.meta
+X Project/Assets/Models/Units/Phoenix/Maps/Hood_low_BaseColor.jpg
+X Project/Assets/Models/Units/Phoenix/Maps.meta
+X Project/Assets/Models/Units/Phoenix/ConvertedMaps/Tara2EyelashesMapT02_1006.tif.meta
+X Project/Assets/Models/Units/Phoenix/ConvertedMaps/Tara2EyelashesMapT02_1006.tif
+X Project/Assets/Models/Units/Phoenix/ConvertedMaps.meta
+X Project/Assets/Models/Units/Phoenix.meta
+X Project/Assets/Models/Units/Nova/Nova.obj.meta
+X Project/Assets/Models/Units/Nova/Nova.obj
+X Project/Assets/Models/Units/Nova/Nova.mtl.meta
+X Project/Assets/Models/Units/Nova/Nova.mtl
+X Project/Assets/Models/Units/Nova/Maps/Venom_A304_d.jpg.meta
+X Project/Assets/Models/Units/Nova/Maps/Venom_A304_d.jpg
+X Project/Assets/Models/Units/Nova/Maps/Venom_A304_c_02.jpg.meta
+X Project/Assets/Models/Units/Nova/Maps/Venom_A304_c_02.jpg
+X Project/Assets/Models/Units/Nova/Maps/Venom_A304_c_01.jpg.meta
+X Project/Assets/Models/Units/Nova/Maps/Venom_A304_c_01.jpg
+X Project/Assets/Models/Units/Nova/Maps/prototypeF_shoes_color2k.jpg.meta
+X Project/Assets/Models/Units/Nova/Maps/prototypeF_shoes_color2k.jpg
+X Project/Assets/Models/Units/Nova/Maps/prototypeF_leg_right_color4k.jpg.meta
+X Project/Assets/Models/Units/Nova/Maps/prototypeF_leg_right_color4k.jpg
+X Project/Assets/Models/Units/Nova/Maps/prototypeF_leg_left_color4k.jpg.meta
+X Project/Assets/Models/Units/Nova/Maps/prototypeF_leg_left_color4k.jpg
+X Project/Assets/Models/Units/Nova/Maps/prototypeF_chest_color4k.jpg.meta
+X Project/Assets/Models/Units/Nova/Maps/prototypeF_chest_color4k.jpg
+X Project/Assets/Models/Units/Nova/Maps/prototypeF_abs_color4k.jpg.meta
+X Project/Assets/Models/Units/Nova/Maps/prototypeF_abs_color4k.jpg
+X Project/Assets/Models/Units/Nova/Maps/PaleAuroreTorsoMapD_1002.jpg.meta
+X Project/Assets/Models/Units/Nova/Maps/PaleAuroreTorsoMapD_1002.jpg
+X Project/Assets/Models/Units/Nova/Maps/PaleAuroreLegsMapD_1003.jpg.meta
+X Project/Assets/Models/Units/Nova/Maps/PaleAuroreLegsMapD_1003.jpg
+X Project/Assets/Models/Units/Nova/Maps/PaleAuroreFaceMap01D_1001.jpg.meta
+X Project/Assets/Models/Units/Nova/Maps/PaleAuroreFaceMap01D_1001.jpg
+X Project/Assets/Models/Units/Nova/Maps/PaleAuroreFaceMap00D_1001.jpg.meta
+X Project/Assets/Models/Units/Nova/Maps/PaleAuroreFaceMap00D_1001.jpg
+X Project/Assets/Models/Units/Nova/Maps/PaleAuroreArmsMapD_1004.jpg.meta
+X Project/Assets/Models/Units/Nova/Maps/PaleAuroreArmsMapD_1004.jpg
+X Project/Assets/Models/Units/Nova/Maps/AuroreMouthMapD_1005.jpg.meta
+X Project/Assets/Models/Units/Nova/Maps/AuroreMouthMapD_1005.jpg
+X Project/Assets/Models/Units/Nova/Maps/AuroreEyeMapD01_1007.jpg.meta
+X Project/Assets/Models/Units/Nova/Maps/AuroreEyeMapD01_1007.jpg
+X Project/Assets/Models/Units/Nova/Maps/AuroreEyeMapD00G3F_1007.jpg.meta
+X Project/Assets/Models/Units/Nova/Maps/AuroreEyeMapD00G3F_1007.jpg
+X Project/Assets/Models/Units/Nova/Maps.meta
+X Project/Assets/Models/Units/Nova/ConvertedMaps/Venom_A304_a.tif.meta
+X Project/Assets/Models/Units/Nova/ConvertedMaps/Venom_A304_a.tif
+X Project/Assets/Models/Units/Nova/ConvertedMaps/AuroreEyelashesMapT02_1006.tif.meta
+X Project/Assets/Models/Units/Nova/ConvertedMaps/AuroreEyelashesMapT02_1006.tif
+X Project/Assets/Models/Units/Nova/ConvertedMaps.meta
+X Project/Assets/Models/Units/Nova.meta
+X Project/Assets/Models/Units/Karmak/Maps/sunglasses_texture.jpg.meta
+X Project/Assets/Models/Units/Karmak/Maps/sunglasses_texture.jpg
+X Project/Assets/Models/Units/Karmak/Maps/sunglasses02_texture.jpg.meta
+X Project/Assets/Models/Units/Karmak/Maps/sunglasses02_texture.jpg
+X Project/Assets/Models/Units/Karmak/Maps/prototypeF_shoes_color2k.jpg.meta
+X Project/Assets/Models/Units/Karmak/Maps/prototypeF_shoes_color2k.jpg
+X Project/Assets/Models/Units/Karmak/Maps/prototypeF_leg_right_color4k.jpg.meta
+X Project/Assets/Models/Units/Karmak/Maps/prototypeF_leg_right_color4k.jpg
+X Project/Assets/Models/Units/Karmak/Maps/prototypeF_leg_left_color4k.jpg.meta
+X Project/Assets/Models/Units/Karmak/Maps/prototypeF_leg_left_color4k.jpg
+X Project/Assets/Models/Units/Karmak/Maps/prototypeF_chest_color4k.jpg.meta
+X Project/Assets/Models/Units/Karmak/Maps/prototypeF_chest_color4k.jpg
+X Project/Assets/Models/Units/Karmak/Maps/prototypeF_abs_color4k.jpg.meta
+X Project/Assets/Models/Units/Karmak/Maps/prototypeF_abs_color4k.jpg
+X Project/Assets/Models/Units/Karmak/Maps/POBS_Rifle_Base.jpg.meta
+X Project/Assets/Models/Units/Karmak/Maps/POBS_Rifle_Base.jpg
+X Project/Assets/Models/Units/Karmak/Maps/POBS_RfOptics_Base.jpg.meta
+X Project/Assets/Models/Units/Karmak/Maps/POBS_RfOptics_Base.jpg
+X Project/Assets/Models/Units/Karmak/Maps/POBS_RfLaser_Base.jpg.meta
+X Project/Assets/Models/Units/Karmak/Maps/POBS_RfLaser_Base.jpg
+X Project/Assets/Models/Units/Karmak/Maps/POBS_RfFlashlight_Base.jpg.meta
+X Project/Assets/Models/Units/Karmak/Maps/POBS_RfFlashlight_Base.jpg
+X Project/Assets/Models/Units/Karmak/Maps/POBS_MagRf_Base.jpg.meta
+X Project/Assets/Models/Units/Karmak/Maps/POBS_MagRf_Base.jpg
+X Project/Assets/Models/Units/Karmak/Maps/FWSACarsonTorso_1002.jpg.meta
+X Project/Assets/Models/Units/Karmak/Maps/FWSACarsonTorso_1002.jpg
+X Project/Assets/Models/Units/Karmak/Maps/FWSACarsonMouth_1005.jpg.meta
+X Project/Assets/Models/Units/Karmak/Maps/FWSACarsonMouth_1005.jpg
+X Project/Assets/Models/Units/Karmak/Maps/FWSACarsonLegs_1003.jpg.meta
+X Project/Assets/Models/Units/Karmak/Maps/FWSACarsonLegs_1003.jpg
+X Project/Assets/Models/Units/Karmak/Maps/FWSACarsonFace_1001.jpg.meta
+X Project/Assets/Models/Units/Karmak/Maps/FWSACarsonFace_1001.jpg
+X Project/Assets/Models/Units/Karmak/Maps/FWSACarsonEyes01_1007.jpg.meta
+X Project/Assets/Models/Units/Karmak/Maps/FWSACarsonEyes01_1007.jpg
+X Project/Assets/Models/Units/Karmak/Maps/FWSACarsonArms_1004.jpg.meta
+X Project/Assets/Models/Units/Karmak/Maps/FWSACarsonArms_1004.jpg
+X Project/Assets/Models/Units/Karmak/Maps.meta
+X Project/Assets/Models/Units/Karmak/Karmak.obj.meta
+X Project/Assets/Models/Units/Karmak/Karmak.obj
+X Project/Assets/Models/Units/Karmak/Karmak.mtl.meta
+X Project/Assets/Models/Units/Karmak/Karmak.mtl
+X Project/Assets/Models/Units/Karmak/ConvertedMaps/sunglasses_texture_OP.tif.meta
+X Project/Assets/Models/Units/Karmak/ConvertedMaps/sunglasses_texture_OP.tif
+X Project/Assets/Models/Units/Karmak/ConvertedMaps/FWSACarsonLashes_1006.tif.meta
+X Project/Assets/Models/Units/Karmak/ConvertedMaps/FWSACarsonLashes_1006.tif
+X Project/Assets/Models/Units/Karmak/ConvertedMaps/FWSACarsonEyesTR_1007.tif.meta
+X Project/Assets/Models/Units/Karmak/ConvertedMaps/FWSACarsonEyesTR_1007.tif
+X Project/Assets/Models/Units/Karmak/ConvertedMaps.meta
+X Project/Assets/Models/Units/Karmak.meta
+X Project/Assets/Models/Units/Ember/Maps/Venom_c_01.jpg.meta
+X Project/Assets/Models/Units/Ember/Maps/Venom_c_01.jpg
+X Project/Assets/Models/Units/Ember/Maps/SFD_TC_Teeth08.jpg.meta
+X Project/Assets/Models/Units/Ember/Maps/SFD_TC_Teeth08.jpg
+X Project/Assets/Models/Units/Ember/Maps/prototypeF_shoes_color2k.jpg.meta
+X Project/Assets/Models/Units/Ember/Maps/prototypeF_shoes_color2k.jpg
+X Project/Assets/Models/Units/Ember/Maps/prototypeF_leg_right_color4k.jpg.meta
+X Project/Assets/Models/Units/Ember/Maps/prototypeF_leg_right_color4k.jpg
+X Project/Assets/Models/Units/Ember/Maps/prototypeF_leg_left_color4k.jpg.meta
+X Project/Assets/Models/Units/Ember/Maps/prototypeF_leg_left_color4k.jpg
+X Project/Assets/Models/Units/Ember/Maps/prototypeF_chest_color4k.jpg.meta
+X Project/Assets/Models/Units/Ember/Maps/prototypeF_chest_color4k.jpg
+X Project/Assets/Models/Units/Ember/Maps/prototypeF_abs_color4k.jpg.meta
+X Project/Assets/Models/Units/Ember/Maps/prototypeF_abs_color4k.jpg
+X Project/Assets/Models/Units/Ember/Maps/P_G3F_04_Brown_M.jpg.meta
+X Project/Assets/Models/Units/Ember/Maps/P_G3F_04_Brown_M.jpg
+X Project/Assets/Models/Units/Ember/Maps/MTH2_DF2.jpg.meta
+X Project/Assets/Models/Units/Ember/Maps/MTH2_DF2.jpg
+X Project/Assets/Models/Units/Ember/Maps/Josie7TorsoMapD_1002.jpg.meta
+X Project/Assets/Models/Units/Ember/Maps/Josie7TorsoMapD_1002.jpg
+X Project/Assets/Models/Units/Ember/Maps/Josie7MouthMapD_1005.jpg.meta
+X Project/Assets/Models/Units/Ember/Maps/Josie7MouthMapD_1005.jpg
+X Project/Assets/Models/Units/Ember/Maps/Josie7LegsMapD_1003.jpg.meta
+X Project/Assets/Models/Units/Ember/Maps/Josie7LegsMapD_1003.jpg
+X Project/Assets/Models/Units/Ember/Maps/Josie7FaceMapD_1001.jpg.meta
+X Project/Assets/Models/Units/Ember/Maps/Josie7FaceMapD_1001.jpg
+X Project/Assets/Models/Units/Ember/Maps/Josie7ArmsMapD_1004.jpg.meta
+X Project/Assets/Models/Units/Ember/Maps/Josie7ArmsMapD_1004.jpg
+X Project/Assets/Models/Units/Ember/Maps/Ear_low_BaseColor.jpg.meta
+X Project/Assets/Models/Units/Ember/Maps/Ear_low_BaseColor.jpg
+X Project/Assets/Models/Units/Ember/Maps/Crop_Diff_Dark1.jpg.meta
+X Project/Assets/Models/Units/Ember/Maps/Crop_Diff_Dark1.jpg
+X Project/Assets/Models/Units/Ember/Maps/09OOTRastaTailHair.jpg.meta
+X Project/Assets/Models/Units/Ember/Maps/09OOTRastaTailHair.jpg
+X Project/Assets/Models/Units/Ember/Maps/09OOTRastaTailCap.jpg.meta
+X Project/Assets/Models/Units/Ember/Maps/09OOTRastaTailCap.jpg
+X Project/Assets/Models/Units/Ember/Maps.meta
+X Project/Assets/Models/Units/Ember/Ember.obj.meta
+X Project/Assets/Models/Units/Ember/Ember.obj
+X Project/Assets/Models/Units/Ember/Ember.mtl.meta
+X Project/Assets/Models/Units/Ember/Ember.mtl
+X Project/Assets/Models/Units/Ember/ConvertedMaps/P_G3F_MoistureMsk.tif.meta
+X Project/Assets/Models/Units/Ember/ConvertedMaps/P_G3F_MoistureMsk.tif
+X Project/Assets/Models/Units/Ember/ConvertedMaps/OOTUtilityRastaTailHairT.tif.meta
+X Project/Assets/Models/Units/Ember/ConvertedMaps/OOTUtilityRastaTailHairT.tif
+X Project/Assets/Models/Units/Ember/ConvertedMaps/OOTUtilityRastaTailCapT.tif.meta
+X Project/Assets/Models/Units/Ember/ConvertedMaps/OOTUtilityRastaTailCapT.tif
+X Project/Assets/Models/Units/Ember/ConvertedMaps/Josie7EyelashesT_1006.tif.meta
+X Project/Assets/Models/Units/Ember/ConvertedMaps/Josie7EyelashesT_1006.tif
+X Project/Assets/Models/Units/Ember/ConvertedMaps/Crop_Opacity_0001.tif.meta
+X Project/Assets/Models/Units/Ember/ConvertedMaps/Crop_Opacity_0001.tif
+X Project/Assets/Models/Units/Ember/ConvertedMaps.meta
+X Project/Assets/Models/Units/Ember.meta
+X Project/Assets/Models/Units/Cops/Aurelia/Maps/Visor_low_BaseColor.jpg.meta
+X Project/Assets/Models/Units/Cops/Aurelia/Maps/Visor_low_BaseColor.jpg
+X Project/Assets/Models/Units/Cops/Aurelia/Maps/Vertsuit_low_BaseColor.jpg.meta
+X Project/Assets/Models/Units/Cops/Aurelia/Maps/Vertsuit_low_BaseColor.jpg
+X Project/Assets/Models/Units/Cops/Aurelia/Maps/Vertshoe_low_BaseColor.jpg.meta
+X Project/Assets/Models/Units/Cops/Aurelia/Maps/Vertshoe_low_BaseColor.jpg
+X Project/Assets/Models/Units/Cops/Aurelia/Maps/Tara2TorsoMapD_1002.jpg.meta
+X Project/Assets/Models/Units/Cops/Aurelia/Maps/Tara2TorsoMapD_1002.jpg
+X Project/Assets/Models/Units/Cops/Aurelia/Maps/Tara2MouthMapD_1005.jpg.meta
+X Project/Assets/Models/Units/Cops/Aurelia/Maps/Tara2MouthMapD_1005.jpg
+X Project/Assets/Models/Units/Cops/Aurelia/Maps/Tara2LegsMapD_1003.jpg.meta
+X Project/Assets/Models/Units/Cops/Aurelia/Maps/Tara2LegsMapD_1003.jpg
+X Project/Assets/Models/Units/Cops/Aurelia/Maps/Tara2FaceMapD_1001.jpg.meta
+X Project/Assets/Models/Units/Cops/Aurelia/Maps/Tara2FaceMapD_1001.jpg
+X Project/Assets/Models/Units/Cops/Aurelia/Maps/Tara2FaceMapD01_1001.jpg.meta
+X Project/Assets/Models/Units/Cops/Aurelia/Maps/Tara2FaceMapD01_1001.jpg
+X Project/Assets/Models/Units/Cops/Aurelia/Maps/Tara2EyeMapD01_1007.jpg.meta
+X Project/Assets/Models/Units/Cops/Aurelia/Maps/Tara2EyeMapD01_1007.jpg
+X Project/Assets/Models/Units/Cops/Aurelia/Maps/Tara2ArmsMapD_1004.jpg.meta
+X Project/Assets/Models/Units/Cops/Aurelia/Maps/Tara2ArmsMapD_1004.jpg
+X Project/Assets/Models/Units/Cops/Aurelia/Maps/POBS_PMag_Base.jpg.meta
+X Project/Assets/Models/Units/Cops/Aurelia/Maps/POBS_PMag_Base.jpg
+X Project/Assets/Models/Units/Cops/Aurelia/Maps/POBS_Pistol_Base.jpg.meta
+X Project/Assets/Models/Units/Cops/Aurelia/Maps/POBS_Pistol_Base.jpg
+X Project/Assets/Models/Units/Cops/Aurelia/Maps/POBS_LightLaser_Base.jpg.meta
+X Project/Assets/Models/Units/Cops/Aurelia/Maps/POBS_LightLaser_Base.jpg
+X Project/Assets/Models/Units/Cops/Aurelia/Maps/POBS_Compensator_Base.jpg.meta
+X Project/Assets/Models/Units/Cops/Aurelia/Maps/POBS_Compensator_Base.jpg
+X Project/Assets/Models/Units/Cops/Aurelia/Maps/Hood_low_BaseColor.jpg.meta
+X Project/Assets/Models/Units/Cops/Aurelia/Maps/Hood_low_BaseColor.jpg
+X Project/Assets/Models/Units/Cops/Aurelia/Maps/Helmet_low_BaseColor.jpg.meta
+X Project/Assets/Models/Units/Cops/Aurelia/Maps/Helmet_low_BaseColor.jpg
+X Project/Assets/Models/Units/Cops/Aurelia/Maps/Glove_low_BaseColor.jpg.meta
+X Project/Assets/Models/Units/Cops/Aurelia/Maps/Glove_low_BaseColor.jpg
+X Project/Assets/Models/Units/Cops/Aurelia/Maps/Glasses_low_BaseColor.jpg.meta
+X Project/Assets/Models/Units/Cops/Aurelia/Maps/Glasses_low_BaseColor.jpg
+X Project/Assets/Models/Units/Cops/Aurelia/Maps/Ear_low_BaseColor.jpg.meta
+X Project/Assets/Models/Units/Cops/Aurelia/Maps/Ear_low_BaseColor.jpg
+X Project/Assets/Models/Units/Cops/Aurelia/Maps.meta
+X Project/Assets/Models/Units/Cops/Aurelia/ConvertedMaps/Tara2EyelashesMapT01_1006.tif.meta
+X Project/Assets/Models/Units/Cops/Aurelia/ConvertedMaps/Tara2EyelashesMapT01_1006.tif
+X Project/Assets/Models/Units/Cops/Aurelia/ConvertedMaps.meta
+X Project/Assets/Models/Units/Cops/Aurelia/Aurelia.obj.meta
+X Project/Assets/Models/Units/Cops/Aurelia/Aurelia.obj
+X Project/Assets/Models/Units/Cops/Aurelia/Aurelia.mtl.meta
+X Project/Assets/Models/Units/Cops/Aurelia/Aurelia.mtl
+X Project/Assets/Models/Units/Cops/Aurelia.meta
+X Project/Assets/Models/Units/Cops.meta
+X Project/Assets/Models/Units/Bradley/Maps/Vertsuit_low_BaseColor.jpg.meta
+X Project/Assets/Models/Units/Bradley/Maps/Vertsuit_low_BaseColor.jpg
+X Project/Assets/Models/Units/Bradley/Maps/Vertshoe_low_BaseColor.jpg.meta
+X Project/Assets/Models/Units/Bradley/Maps/Vertshoe_low_BaseColor.jpg
+X Project/Assets/Models/Units/Bradley/Maps/Tara2TorsoMapD_1002.jpg.meta
+X Project/Assets/Models/Units/Bradley/Maps/Tara2TorsoMapD_1002.jpg
+X Project/Assets/Models/Units/Bradley/Maps/Tara2MouthMapD_1005.jpg.meta
+X Project/Assets/Models/Units/Bradley/Maps/Tara2MouthMapD_1005.jpg
+X Project/Assets/Models/Units/Bradley/Maps/Tara2LegsMapD_1003.jpg.meta
+X Project/Assets/Models/Units/Bradley/Maps/Tara2LegsMapD_1003.jpg
+X Project/Assets/Models/Units/Bradley/Maps/Tara2FaceMapD00_1001.jpg.meta
+X Project/Assets/Models/Units/Bradley/Maps/Tara2FaceMapD00_1001.jpg
+X Project/Assets/Models/Units/Bradley/Maps/Tara2ArmsMapD_1004.jpg.meta
+X Project/Assets/Models/Units/Bradley/Maps/Tara2ArmsMapD_1004.jpg
+X Project/Assets/Models/Units/Bradley/Maps/SFD_TC_Teeth08.jpg.meta
+X Project/Assets/Models/Units/Bradley/Maps/SFD_TC_Teeth08.jpg
+X Project/Assets/Models/Units/Bradley/Maps/POBS_PMag_Base.jpg.meta
+X Project/Assets/Models/Units/Bradley/Maps/POBS_PMag_Base.jpg
+X Project/Assets/Models/Units/Bradley/Maps/POBS_Pistol_Base.jpg.meta
+X Project/Assets/Models/Units/Bradley/Maps/POBS_Pistol_Base.jpg
+X Project/Assets/Models/Units/Bradley/Maps/POBS_LightLaser_Base.jpg.meta
+X Project/Assets/Models/Units/Bradley/Maps/POBS_LightLaser_Base.jpg
+X Project/Assets/Models/Units/Bradley/Maps/POBS_Compensator_Base.jpg.meta
+X Project/Assets/Models/Units/Bradley/Maps/POBS_Compensator_Base.jpg
+X Project/Assets/Models/Units/Bradley/Maps/P_G3F_EyeSocket_M.jpg.meta
+X Project/Assets/Models/Units/Bradley/Maps/P_G3F_EyeSocket_M.jpg
+X Project/Assets/Models/Units/Bradley/Maps/P_G3F_01_Sapphire_M.jpg.meta
+X Project/Assets/Models/Units/Bradley/Maps/P_G3F_01_Sapphire_M.jpg
+X Project/Assets/Models/Units/Bradley/Maps/Mask_low_BaseColor.jpg.meta
+X Project/Assets/Models/Units/Bradley/Maps/Mask_low_BaseColor.jpg
+X Project/Assets/Models/Units/Bradley/Maps/Hood_low_BaseColor.jpg.meta
+X Project/Assets/Models/Units/Bradley/Maps/Hood_low_BaseColor.jpg
+X Project/Assets/Models/Units/Bradley/Maps/Glove_low_BaseColor.jpg.meta
+X Project/Assets/Models/Units/Bradley/Maps/Glove_low_BaseColor.jpg
+X Project/Assets/Models/Units/Bradley/Maps/Glasses_low_BaseColor.jpg.meta
+X Project/Assets/Models/Units/Bradley/Maps/Glasses_low_BaseColor.jpg
+X Project/Assets/Models/Units/Bradley/Maps.meta
+X Project/Assets/Models/Units/Bradley/ConvertedMaps/Tara2EyelashesMapT02_1006.tif.meta
+X Project/Assets/Models/Units/Bradley/ConvertedMaps/Tara2EyelashesMapT02_1006.tif
+X Project/Assets/Models/Units/Bradley/ConvertedMaps/P_G3F_MoistureMsk.tif.meta
+X Project/Assets/Models/Units/Bradley/ConvertedMaps/P_G3F_MoistureMsk.tif
+X Project/Assets/Models/Units/Bradley/ConvertedMaps/P_G3F_EyeSocket_Trans.tif.meta
+X Project/Assets/Models/Units/Bradley/ConvertedMaps/P_G3F_EyeSocket_Trans.tif
+X Project/Assets/Models/Units/Bradley/ConvertedMaps.meta
+X Project/Assets/Models/Units/Bradley/Bradley.obj.meta
+X Project/Assets/Models/Units/Bradley/Bradley.obj
+X Project/Assets/Models/Units/Bradley/Bradley.mtl.meta
+X Project/Assets/Models/Units/Bradley/Bradley.mtl
+X Project/Assets/Models/Units/Bradley.meta
+X Project/Assets/Models/Units/Blaze/Maps/SFD_TC_Teeth08.jpg.meta
+X Project/Assets/Models/Units/Blaze/Maps/SFD_TC_Teeth08.jpg
+X Project/Assets/Models/Units/Blaze/Maps/prototypeF_leg_right_color2k.jpg.meta
+X Project/Assets/Models/Units/Blaze/Maps/prototypeF_leg_right_color2k.jpg
+X Project/Assets/Models/Units/Blaze/Maps/prototypeF_leg_left_color2k.jpg.meta
+X Project/Assets/Models/Units/Blaze/Maps/prototypeF_leg_left_color2k.jpg
+X Project/Assets/Models/Units/Blaze/Maps/prototypeF_chest_color2k.jpg.meta
+X Project/Assets/Models/Units/Blaze/Maps/prototypeF_chest_color2k.jpg
+X Project/Assets/Models/Units/Blaze/Maps/prototypeF_abs_color2k.jpg.meta
+X Project/Assets/Models/Units/Blaze/Maps/prototypeF_abs_color2k.jpg
+X Project/Assets/Models/Units/Blaze/Maps/P_G3F_EyeSocket_M.jpg.meta
+X Project/Assets/Models/Units/Blaze/Maps/P_G3F_EyeSocket_M.jpg
+X Project/Assets/Models/Units/Blaze/Maps/P_G3F_04_DarkHazel_M.jpg.meta
+X Project/Assets/Models/Units/Blaze/Maps/P_G3F_04_DarkHazel_M.jpg
+X Project/Assets/Models/Units/Blaze/Maps/FWSAUmaTorso_1002.jpg.meta
+X Project/Assets/Models/Units/Blaze/Maps/FWSAUmaTorso_1002.jpg
+X Project/Assets/Models/Units/Blaze/Maps/FWSAUmaMouth_1005.jpg.meta
+X Project/Assets/Models/Units/Blaze/Maps/FWSAUmaMouth_1005.jpg
+X Project/Assets/Models/Units/Blaze/Maps/FWSAUmaLegs_1003.jpg.meta
+X Project/Assets/Models/Units/Blaze/Maps/FWSAUmaLegs_1003.jpg
+X Project/Assets/Models/Units/Blaze/Maps/FWSAUmaFace_1001.jpg.meta
+X Project/Assets/Models/Units/Blaze/Maps/FWSAUmaFace_1001.jpg
+X Project/Assets/Models/Units/Blaze/Maps/FWSAUmaArms_1004.jpg.meta
+X Project/Assets/Models/Units/Blaze/Maps/FWSAUmaArms_1004.jpg
+X Project/Assets/Models/Units/Blaze/Maps/Evil shadow mask DiffuseMap.jpg.meta
+X Project/Assets/Models/Units/Blaze/Maps/Evil shadow mask DiffuseMap.jpg
+X Project/Assets/Models/Units/Blaze/Maps/05OOTZolaHair.jpg.meta
+X Project/Assets/Models/Units/Blaze/Maps/05OOTZolaHair.jpg
+X Project/Assets/Models/Units/Blaze/Maps/05OOTZolaCap.jpg.meta
+X Project/Assets/Models/Units/Blaze/Maps/05OOTZolaCap.jpg
+X Project/Assets/Models/Units/Blaze/Maps.meta
+X Project/Assets/Models/Units/Blaze/ConvertedMaps/Tara2EyelashesMapT01_1006.tif.meta
+X Project/Assets/Models/Units/Blaze/ConvertedMaps/Tara2EyelashesMapT01_1006.tif
+X Project/Assets/Models/Units/Blaze/ConvertedMaps/P_G3F_MoistureMsk.tif.meta
+X Project/Assets/Models/Units/Blaze/ConvertedMaps/P_G3F_MoistureMsk.tif
+X Project/Assets/Models/Units/Blaze/ConvertedMaps/P_G3F_EyeSocket_Trans.tif.meta
+X Project/Assets/Models/Units/Blaze/ConvertedMaps/P_G3F_EyeSocket_Trans.tif
+X Project/Assets/Models/Units/Blaze/ConvertedMaps/OOTUtilityZolaHairT.tif.meta
+X Project/Assets/Models/Units/Blaze/ConvertedMaps/OOTUtilityZolaHairT.tif
+X Project/Assets/Models/Units/Blaze/ConvertedMaps/OOTUtilityZolaCapT.tif.meta
+X Project/Assets/Models/Units/Blaze/ConvertedMaps/OOTUtilityZolaCapT.tif
+X Project/Assets/Models/Units/Blaze/ConvertedMaps.meta
+X Project/Assets/Models/Units/Blaze/Blaze.obj.meta
+X Project/Assets/Models/Units/Blaze/Blaze.obj
+X Project/Assets/Models/Units/Blaze/Blaze.mtl.meta
+X Project/Assets/Models/Units/Blaze/Blaze.mtl
+X Project/Assets/Models/Units/Blaze.meta
+X Project/Assets/Models/Units.meta
+X Project/Assets/Models/Sprites/Bar.png.meta
+X Project/Assets/Models/Sprites/Bar.png
+X Project/Assets/Models/Sprites.meta
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_g.mat.meta
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_g.mat
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_cartoon_a.mat.meta
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_cartoon_a.mat
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_ball_bbb.mat.meta
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_ball_bbb.mat
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_ball_bb.mat.meta
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_ball_bb.mat
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_ball_b.mat.meta
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_ball_b.mat
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_a.mat.meta
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_a.mat
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials.meta
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_g.png.meta
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_g.png
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_cartoon_a.png.meta
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_cartoon_a.png
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_ball_bbb.png.meta
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_ball_bbb.png
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_ball_bb.png.meta
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_ball_bb.png
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_ball_b.png.meta
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_ball_b.png
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_a.png.meta
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_a.png
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire.meta
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures.meta
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Scenes/fx_fire_freeSettings.lighting.meta
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Scenes/fx_fire_freeSettings.lighting
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Scenes/fx_fire_free.unity.meta
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Scenes/fx_fire_free.unity
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Scenes.meta
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_g.prefab.meta
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_g.prefab
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_cartoon_a.prefab.meta
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_cartoon_a.prefab
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_ball_bbb.prefab.meta
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_ball_bbb.prefab
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_ball_bb.prefab.meta
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_ball_bb.prefab
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_ball_b.prefab.meta
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_ball_b.prefab
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_a.prefab.meta
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs/fx_fire_a.prefab
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Prefabs.meta
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free.meta
+X Project/Assets/Models/FX_Kandol_Pack/FX_effect_sprite_image01.meta
+X Project/Assets/Models/FX_Kandol_Pack.meta
+X Project/Assets/Models/City/City.images/Wire combination 01.jpg.meta
+X Project/Assets/Models/City/City.images/Wire combination 01.jpg
+X Project/Assets/Models/City/City.images/window.jpg.meta
+X Project/Assets/Models/City/City.images/window.jpg
+X Project/Assets/Models/City/City.images/window 01.jpg.meta
+X Project/Assets/Models/City/City.images/window 01.jpg
+X Project/Assets/Models/City/City.images/warning sign.jpg.meta
+X Project/Assets/Models/City/City.images/warning sign.jpg
+X Project/Assets/Models/City/City.images/wall 02.jpg.meta
+X Project/Assets/Models/City/City.images/wall 02.jpg
+X Project/Assets/Models/City/City.images/wall 01.jpg.meta
+X Project/Assets/Models/City/City.images/wall 01.jpg
+X Project/Assets/Models/City/City.images/Waist_DefaultMaterial_BaseColor.jpg.meta
+X Project/Assets/Models/City/City.images/Waist_DefaultMaterial_BaseColor.jpg
+X Project/Assets/Models/City/City.images/UpperLegR_DefaultMaterial_BaseColor.jpg.meta
+X Project/Assets/Models/City/City.images/UpperLegR_DefaultMaterial_BaseColor.jpg
+X Project/Assets/Models/City/City.images/UpperLegL_DefaultMaterial_BaseColor.jpg.meta
+X Project/Assets/Models/City/City.images/UpperLegL_DefaultMaterial_BaseColor.jpg
+X Project/Assets/Models/City/City.images/Underground pass.jpg.meta
+X Project/Assets/Models/City/City.images/Underground pass.jpg
+X Project/Assets/Models/City/City.images/u3Truck.jpg.meta
+X Project/Assets/Models/City/City.images/u3Truck.jpg
+X Project/Assets/Models/City/City.images/u3Bus02.jpg.meta
+X Project/Assets/Models/City/City.images/u3Bus02.jpg
+X Project/Assets/Models/City/City.images/Trash can b.jpg.meta
+X Project/Assets/Models/City/City.images/Trash can b.jpg
+X Project/Assets/Models/City/City.images/Trash can a.jpg.meta
+X Project/Assets/Models/City/City.images/Trash can a.jpg
+X Project/Assets/Models/City/City.images/Traffic warning.jpg.meta
+X Project/Assets/Models/City/City.images/Traffic warning.jpg
+X Project/Assets/Models/City/City.images/surveillance cameras b.jpg.meta
+X Project/Assets/Models/City/City.images/surveillance cameras b.jpg
+X Project/Assets/Models/City/City.images/surveillance cameras a.jpg.meta
+X Project/Assets/Models/City/City.images/surveillance cameras a.jpg
+X Project/Assets/Models/City/City.images/Sundries 01.jpg.meta
+X Project/Assets/Models/City/City.images/Sundries 01.jpg
+X Project/Assets/Models/City/City.images/Sun visor.jpg.meta
+X Project/Assets/Models/City/City.images/Sun visor.jpg
+X Project/Assets/Models/City/City.images/Street light.jpg.meta
+X Project/Assets/Models/City/City.images/Street light.jpg
+X Project/Assets/Models/City/City.images/Street light a.jpg.meta
+X Project/Assets/Models/City/City.images/Street light a.jpg
+X Project/Assets/Models/City/City.images/Stair.jpg.meta
+X Project/Assets/Models/City/City.images/Stair.jpg
+X Project/Assets/Models/City/City.images/Stair 02.jpg.meta
+X Project/Assets/Models/City/City.images/Stair 02.jpg
+X Project/Assets/Models/City/City.images/Stair 01.jpg.meta
+X Project/Assets/Models/City/City.images/Stair 01.jpg
+X Project/Assets/Models/City/City.images/SmallArmorPanels_DefaultMaterial_BaseColor.jpg.meta
+X Project/Assets/Models/City/City.images/SmallArmorPanels_DefaultMaterial_BaseColor.jpg
+X Project/Assets/Models/City/City.images/ShoulderL_DefaultMaterial_BaseColor.jpg.meta
+X Project/Assets/Models/City/City.images/ShoulderL_DefaultMaterial_BaseColor.jpg
+X Project/Assets/Models/City/City.images/Screen_Alpha.tif.meta
+X Project/Assets/Models/City/City.images/Screen_Alpha.tif
+X Project/Assets/Models/City/City.images/road 07.jpg.meta
+X Project/Assets/Models/City/City.images/road 07.jpg
+X Project/Assets/Models/City/City.images/road 05.jpg.meta
+X Project/Assets/Models/City/City.images/road 05.jpg
+X Project/Assets/Models/City/City.images/road 04.jpg.meta
+X Project/Assets/Models/City/City.images/road 04.jpg
+X Project/Assets/Models/City/City.images/road 03.jpg.meta
+X Project/Assets/Models/City/City.images/road 03.jpg
+X Project/Assets/Models/City/City.images/road 02.jpg.meta
+X Project/Assets/Models/City/City.images/road 02.jpg
+X Project/Assets/Models/City/City.images/road 01.jpg.meta
+X Project/Assets/Models/City/City.images/road 01.jpg
+X Project/Assets/Models/City/City.images/PlasmaCannon_DefaultMaterial_BaseColor.jpg.meta
+X Project/Assets/Models/City/City.images/PlasmaCannon_DefaultMaterial_BaseColor.jpg
+X Project/Assets/Models/City/City.images/Pipeline a.jpg.meta
+X Project/Assets/Models/City/City.images/Pipeline a.jpg
+X Project/Assets/Models/City/City.images/pipeline 02.jpg.meta
+X Project/Assets/Models/City/City.images/pipeline 02.jpg
+X Project/Assets/Models/City/City.images/pipeline 002.jpg.meta
+X Project/Assets/Models/City/City.images/pipeline 002.jpg
+X Project/Assets/Models/City/City.images/Pillar.jpg.meta
+X Project/Assets/Models/City/City.images/Pillar.jpg
+X Project/Assets/Models/City/City.images/Pelvis_DefaultMaterial_BaseColor.jpg.meta
+X Project/Assets/Models/City/City.images/Pelvis_DefaultMaterial_BaseColor.jpg
+X Project/Assets/Models/City/City.images/Neon light 08.jpg.meta
+X Project/Assets/Models/City/City.images/Neon light 08.jpg
+X Project/Assets/Models/City/City.images/Neon light 07.jpg.meta
+X Project/Assets/Models/City/City.images/Neon light 07.jpg
+X Project/Assets/Models/City/City.images/Neon light 06.jpg.meta
+X Project/Assets/Models/City/City.images/Neon light 06.jpg
+X Project/Assets/Models/City/City.images/Neon light 05.jpg.meta
+X Project/Assets/Models/City/City.images/Neon light 05.jpg
+X Project/Assets/Models/City/City.images/Neon light 04.jpg.meta
+X Project/Assets/Models/City/City.images/Neon light 04.jpg
+X Project/Assets/Models/City/City.images/Neon light 03.jpg.meta
+X Project/Assets/Models/City/City.images/Neon light 03.jpg
+X Project/Assets/Models/City/City.images/Neon light 02.jpg.meta
+X Project/Assets/Models/City/City.images/Neon light 02.jpg
+X Project/Assets/Models/City/City.images/Neon light 01.jpg.meta
+X Project/Assets/Models/City/City.images/Neon light 01.jpg
+X Project/Assets/Models/City/City.images/Meter box 04.jpg.meta
+X Project/Assets/Models/City/City.images/Meter box 04.jpg
+X Project/Assets/Models/City/City.images/Meter box 03.jpg.meta
+X Project/Assets/Models/City/City.images/Meter box 03.jpg
+X Project/Assets/Models/City/City.images/Meter box 02.jpg.meta
+X Project/Assets/Models/City/City.images/Meter box 02.jpg
+X Project/Assets/Models/City/City.images/Meter box 01.jpg.meta
+X Project/Assets/Models/City/City.images/Meter box 01.jpg
+X Project/Assets/Models/City/City.images/Manhole cover.jpg.meta
+X Project/Assets/Models/City/City.images/Manhole cover.jpg
+X Project/Assets/Models/City/City.images/MainBody_DefaultMaterial_BaseColor.jpg.meta
+X Project/Assets/Models/City/City.images/MainBody_DefaultMaterial_BaseColor.jpg
+X Project/Assets/Models/City/City.images/LowerLegL_DefaultMaterial_BaseColor.jpg.meta
+X Project/Assets/Models/City/City.images/LowerLegL_DefaultMaterial_BaseColor.jpg
+X Project/Assets/Models/City/City.images/Lamp.jpg.meta
+X Project/Assets/Models/City/City.images/Lamp.jpg
+X Project/Assets/Models/City/City.images/lamp box.jpg.meta
+X Project/Assets/Models/City/City.images/lamp box.jpg
+X Project/Assets/Models/City/City.images/iron door.jpg.meta
+X Project/Assets/Models/City/City.images/iron door.jpg
+X Project/Assets/Models/City/City.images/HatchDoor_DefaultMaterial_BaseColor.jpg.meta
+X Project/Assets/Models/City/City.images/HatchDoor_DefaultMaterial_BaseColor.jpg
+X Project/Assets/Models/City/City.images/Floor edge.jpg.meta
+X Project/Assets/Models/City/City.images/Floor edge.jpg
+X Project/Assets/Models/City/City.images/Floor 05.jpg.meta
+X Project/Assets/Models/City/City.images/Floor 05.jpg
+X Project/Assets/Models/City/City.images/Floor 04.jpg.meta
+X Project/Assets/Models/City/City.images/Floor 04.jpg
+X Project/Assets/Models/City/City.images/Floor 03.jpg.meta
+X Project/Assets/Models/City/City.images/Floor 03.jpg
+X Project/Assets/Models/City/City.images/Floor 02.jpg.meta
+X Project/Assets/Models/City/City.images/Floor 02.jpg
+X Project/Assets/Models/City/City.images/Floor 01.jpg.meta
+X Project/Assets/Models/City/City.images/Floor 01.jpg
+X Project/Assets/Models/City/City.images/Entrance 01.jpg.meta
+X Project/Assets/Models/City/City.images/Entrance 01.jpg
+X Project/Assets/Models/City/City.images/DoubleMinigun_DefaultMaterial_BaseColor.jpg.meta
+X Project/Assets/Models/City/City.images/DoubleMinigun_DefaultMaterial_BaseColor.jpg
+X Project/Assets/Models/City/City.images/Door 06.jpg.meta
+X Project/Assets/Models/City/City.images/Door 06.jpg
+X Project/Assets/Models/City/City.images/Door 05.jpg.meta
+X Project/Assets/Models/City/City.images/Door 05.jpg
+X Project/Assets/Models/City/City.images/Door 04.jpg.meta
+X Project/Assets/Models/City/City.images/Door 04.jpg
+X Project/Assets/Models/City/City.images/Door 03.jpg.meta
+X Project/Assets/Models/City/City.images/Door 03.jpg
+X Project/Assets/Models/City/City.images/Door 02.jpg.meta
+X Project/Assets/Models/City/City.images/Door 02.jpg
+X Project/Assets/Models/City/City.images/Door 01.jpg.meta
+X Project/Assets/Models/City/City.images/Door 01.jpg
+X Project/Assets/Models/City/City.images/Cockpit_1_basecolor.png.meta
+X Project/Assets/Models/City/City.images/Cockpit_1_basecolor.png
+X Project/Assets/Models/City/City.images/ceramic tile b.jpg.meta
+X Project/Assets/Models/City/City.images/ceramic tile b.jpg
+X Project/Assets/Models/City/City.images/ceramic tile a.jpg.meta
+X Project/Assets/Models/City/City.images/ceramic tile a.jpg
+X Project/Assets/Models/City/City.images/Carton.jpg.meta
+X Project/Assets/Models/City/City.images/Carton.jpg
+X Project/Assets/Models/City/City.images/Building 3 bottom.jpg.meta
+X Project/Assets/Models/City/City.images/Building 3 bottom.jpg
+X Project/Assets/Models/City/City.images/Building 08 e.jpg.meta
+X Project/Assets/Models/City/City.images/Building 08 e.jpg
+X Project/Assets/Models/City/City.images/Building 08 d.jpg.meta
+X Project/Assets/Models/City/City.images/Building 08 d.jpg
+X Project/Assets/Models/City/City.images/Building 08 c.jpg.meta
+X Project/Assets/Models/City/City.images/Building 08 c.jpg
+X Project/Assets/Models/City/City.images/Building 08 b.jpg.meta
+X Project/Assets/Models/City/City.images/Building 08 b.jpg
+X Project/Assets/Models/City/City.images/Building 08 a.jpg.meta
+X Project/Assets/Models/City/City.images/Building 08 a.jpg
+X Project/Assets/Models/City/City.images/Building 07.jpg.meta
+X Project/Assets/Models/City/City.images/Building 07.jpg
+X Project/Assets/Models/City/City.images/Building 06.jpg.meta
+X Project/Assets/Models/City/City.images/Building 06.jpg
+X Project/Assets/Models/City/City.images/Building 06 bottom.jpg.meta
+X Project/Assets/Models/City/City.images/Building 06 bottom.jpg
+X Project/Assets/Models/City/City.images/Building 05.jpg.meta
+X Project/Assets/Models/City/City.images/Building 05.jpg
+X Project/Assets/Models/City/City.images/Building 05 bottom.jpg.meta
+X Project/Assets/Models/City/City.images/Building 05 bottom.jpg
+X Project/Assets/Models/City/City.images/Building 04.jpg.meta
+X Project/Assets/Models/City/City.images/Building 04.jpg
+X Project/Assets/Models/City/City.images/Building 04 bottom.jpg.meta
+X Project/Assets/Models/City/City.images/Building 04 bottom.jpg
+X Project/Assets/Models/City/City.images/Building 03.jpg.meta
+X Project/Assets/Models/City/City.images/Building 03.jpg
+X Project/Assets/Models/City/City.images/Building 03 bottom.jpg.meta
+X Project/Assets/Models/City/City.images/Building 03 bottom.jpg
+X Project/Assets/Models/City/City.images/Building 02.jpg.meta
+X Project/Assets/Models/City/City.images/Building 02.jpg
+X Project/Assets/Models/City/City.images/Building 02 bottom.jpg.meta
+X Project/Assets/Models/City/City.images/Building 02 bottom.jpg
+X Project/Assets/Models/City/City.images/Building 01.jpg.meta
+X Project/Assets/Models/City/City.images/Building 01.jpg
+X Project/Assets/Models/City/City.images/Building 01 bottom.jpg.meta
+X Project/Assets/Models/City/City.images/Building 01 bottom.jpg
+X Project/Assets/Models/City/City.images/BodyWeapon_DefaultMaterial_BaseColor.jpg.meta
+X Project/Assets/Models/City/City.images/BodyWeapon_DefaultMaterial_BaseColor.jpg
+X Project/Assets/Models/City/City.images/BodyArmor_DefaultMaterial_BaseColor.jpg.meta
+X Project/Assets/Models/City/City.images/BodyArmor_DefaultMaterial_BaseColor.jpg
+X Project/Assets/Models/City/City.images/Back_DefaultMaterial_BaseColor.jpg.meta
+X Project/Assets/Models/City/City.images/Back_DefaultMaterial_BaseColor.jpg
+X Project/Assets/Models/City/City.images/ashbin.jpg.meta
+X Project/Assets/Models/City/City.images/ashbin.jpg
+X Project/Assets/Models/City/City.images/Armor Vehicle_Wheels_BaseColor.jpg.meta
+X Project/Assets/Models/City/City.images/Armor Vehicle_Wheels_BaseColor.jpg
+X Project/Assets/Models/City/City.images/Armor Vehicle_Top_parts_BaseColor.jpg.meta
+X Project/Assets/Models/City/City.images/Armor Vehicle_Top_parts_BaseColor.jpg
+X Project/Assets/Models/City/City.images/Armor Vehicle_Seats_BaseColor.jpg.meta
+X Project/Assets/Models/City/City.images/Armor Vehicle_Seats_BaseColor.jpg
+X Project/Assets/Models/City/City.images/Armor Vehicle_Mainframe_BaseColor.jpg.meta
+X Project/Assets/Models/City/City.images/Armor Vehicle_Mainframe_BaseColor.jpg
+X Project/Assets/Models/City/City.images/Armor Vehicle_Lights_BaseColor.jpg.meta
+X Project/Assets/Models/City/City.images/Armor Vehicle_Lights_BaseColor.jpg
+X Project/Assets/Models/City/City.images/Armor Vehicle_Front_part_BaseColor.jpg.meta
+X Project/Assets/Models/City/City.images/Armor Vehicle_Front_part_BaseColor.jpg
+X Project/Assets/Models/City/City.images/Armor Vehicle_Floor_BaseColor.jpg.meta
+X Project/Assets/Models/City/City.images/Armor Vehicle_Floor_BaseColor.jpg
+X Project/Assets/Models/City/City.images/Armor Vehicle_Doors_BaseColor.jpg.meta
+X Project/Assets/Models/City/City.images/Armor Vehicle_Doors_BaseColor.jpg
+X Project/Assets/Models/City/City.images/Armor Vehicle_Computer_BaseColor.jpg.meta
+X Project/Assets/Models/City/City.images/Armor Vehicle_Computer_BaseColor.jpg
+X Project/Assets/Models/City/City.images/Armor Vehicle_cockpit_BaseColor.jpg.meta
+X Project/Assets/Models/City/City.images/Armor Vehicle_cockpit_BaseColor.jpg
+X Project/Assets/Models/City/City.images/Air conditioner 02.jpg.meta
+X Project/Assets/Models/City/City.images/Air conditioner 02.jpg
+X Project/Assets/Models/City/City.images/Air conditioner 01.jpg.meta
+X Project/Assets/Models/City/City.images/Air conditioner 01.jpg
+X Project/Assets/Models/City/City.images.meta
+X Project/Assets/Models/City/City.fbx.meta
+X Project/Assets/Models/City/City.fbx
+X Project/Assets/Models/City.meta
+X Project/Assets/Models/Card_Shirts_Lite/Scene/Demo.unity.meta
+X Project/Assets/Models/Card_Shirts_Lite/Scene/Demo.unity
+X Project/Assets/Models/Card_Shirts_Lite/Scene.meta
+X Project/Assets/Models/Card_Shirts_Lite/PNG/Card_shirt_04.png.meta
+X Project/Assets/Models/Card_Shirts_Lite/PNG/Card_shirt_04.png
+X Project/Assets/Models/Card_Shirts_Lite/PNG/Card_shirt_01.png.meta
+X Project/Assets/Models/Card_Shirts_Lite/PNG/Card_shirt_01.png
+X Project/Assets/Models/Card_Shirts_Lite/PNG.meta
+X Project/Assets/Models/Card_Shirts_Lite.meta
