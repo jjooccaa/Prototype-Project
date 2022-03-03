@@ -31,7 +31,7 @@ public class Card : MonoBehaviour
         transform.rotation = Quaternion.Euler(desiredRotation);
     }
 
-    // testing effects for cards, in this case, method is getting ref of units on board and adding more health to first unit
+    // testing effects for cards, in this case, method is getting ref of units on board and adding more health to all units
     public virtual void Effect(ref List<Unit> units)
     {
         foreach (var u in units)

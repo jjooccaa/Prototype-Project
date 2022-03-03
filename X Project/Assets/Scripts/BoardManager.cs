@@ -45,7 +45,7 @@ public class BoardManager : MonoBehaviour
     private Vector3 bounds;
 
     private bool isWhiteTurn;
-    public bool IsWhiteTurn { get { return isWhiteTurn; } set {isWhiteTurn = value; } }
+    public bool IsWhiteTurn { get { return isWhiteTurn; } set { isWhiteTurn = value; } }
 
     private int countingMoves;
     public int CountingMoves { get { return countingMoves; } set { countingMoves = value; } }
@@ -538,11 +538,8 @@ public class BoardManager : MonoBehaviour
             }
         }
 
-        return -Vector2Int.one; // If loop doesn't find tile - break game :D should never happens
+        return -Vector2Int.one; // If loop doesn't find tile - break game, should never happens
     }
-
-
-
 
     IEnumerator ShowTextWarningOnScreen(string text, float duration)
     {

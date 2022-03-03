@@ -14,10 +14,6 @@ public class CardSpell : Card
 
     public override void Effect(ref List<Unit> units)
     {
-        foreach (var u in units)
-        {
-            u.health += 20;
-            Debug.Log("New health for: " + u.ToString() + " " + u.health);
-        }
+
     }
 }

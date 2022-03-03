@@ -35,7 +35,7 @@ public class GameManager : MonoBehaviour
         SpawnDeck(0); // spawn white team deck
         SpawnDeck(1); // spawn black team deck
 
-        // draw 5 cards for white team and 4 for black at the beginning
+        
         cardsInWhiteTeamHand = whiteTeamDeck.Draw(5); 
         cardsInBlackTeamHand = blackTeamDeck.Draw(4);
     }
@@ -52,12 +52,12 @@ public class GameManager : MonoBehaviour
         // if white team card is clicked, summon it and remove it
         if (board.IsWhiteTurn)
         {
-            PlayCard(0); // play and summon card for white team
+            PlayCard(0); 
         }
         // if black team card is clicked, summon it and remove it
         if (!board.IsWhiteTurn)
         {
-            PlayCard(1); // play and summon card for black team
+            PlayCard(1); 
         }
     }
 
@@ -206,7 +206,7 @@ public class GameManager : MonoBehaviour
         {
             for (int i = 0; i < cardsInWhiteTeamHand.Count; i++)
             {
-                if (countingSmndCards == 0) // if this is the first card that is summond in this turn
+                if (countingSmndCards == 0) 
                 {
                     if (cardsInWhiteTeamHand[i].isClicked)
                     {
@@ -214,9 +214,9 @@ public class GameManager : MonoBehaviour
                         cardsInWhiteTeamHand[i].SetPosition(new Vector3(0, 1, -3), false); // if card is summoned move card to the board 
                         //cardsInWhiteTeamHand[i].SetRotation(new Vector3(-90, 0, 0), false);
                         StartCoroutine(DelayDestroyingObject(cardsInWhiteTeamHand[i].gameObject, 3)); // remove card from board after "" seconds
-                        cardsInWhiteTeamHand.Remove(cardsInWhiteTeamHand[i]); // remove card from list
-                        PositionCardsInHand(0); // position all cards
-                        countingSmndCards++; // count how many cards are summoned in one turn 
+                        cardsInWhiteTeamHand.Remove(cardsInWhiteTeamHand[i]); 
+                        PositionCardsInHand(0); 
+                        countingSmndCards++; 
                     }
                 }
             }
@@ -225,16 +225,16 @@ public class GameManager : MonoBehaviour
         {
             for (int i = 0; i < cardsInBlackTeamHand.Count; i++)
             {
-                if (countingSmndCards == 0) // if this is the first card that is summond in this turn
+                if (countingSmndCards == 0) 
                 {
                     if (cardsInBlackTeamHand[i].isClicked)
                     {
                         cardsInBlackTeamHand[i].Effect(ref board.blackUnits); //testing playing card effect
                         cardsInBlackTeamHand[i].SetPosition(new Vector3(0, 1, 3), false); // if card is summoned move card to the board 
                         StartCoroutine(DelayDestroyingObject(cardsInBlackTeamHand[i].gameObject, 3)); // remove card from board after "" seconds
-                        cardsInBlackTeamHand.Remove(cardsInBlackTeamHand[i]);// remove card from list
-                        PositionCardsInHand(1);// position all cards
-                        countingSmndCards++;// count how many cards are summoned in one turn 
+                        cardsInBlackTeamHand.Remove(cardsInBlackTeamHand[i]);
+                        PositionCardsInHand(1);
+                        countingSmndCards++;
                     }
                 }
             }
@@ -251,12 +251,12 @@ public class GameManager : MonoBehaviour
         collTileOne.enabled = false;
         collTileTwo.enabled = false;
 
-        Cursor.lockState = CursorLockMode.Locked; // temp lock mouse input
+        Cursor.lockState = CursorLockMode.Locked; 
 
         yield return new WaitForSeconds(duration);
 
         Destroy(obj);
-        Cursor.lockState = CursorLockMode.None; // unlock mouse input
+        Cursor.lockState = CursorLockMode.None; 
 
         collTileOne.enabled = true;
         collTileTwo.enabled = true;
